@@ -1,0 +1,30 @@
+body {
+    background-color:#f5f5dc;
+  }
+  
+  h1 {
+    color:black;
+    text-align: center;
+    margin-top: 150px;
+  }
+  
+  p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px
+    color: DFC7C1;
+  }
+
+  blockquote{
+    font-family: verdana;
+    font-size: 30px;
+    text-align: center;
+    margin-top: 100px;
+  }
+  
+  div {
+        text-align: center;
+        margin-top: 80px;
+  }
+
